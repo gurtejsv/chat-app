@@ -3,5 +3,5 @@
 Realtime chat app in ReactJS and NodeJS
 
 ## Screenshots
-![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
+![Screenshot](images/join-chatroom-screenshot.png)
+![Screenshot](images/chatroom-screenshot.png)
